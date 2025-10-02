@@ -1,4 +1,4 @@
-# 🧩 Singleton Pattern Prototype — Java Singleton Approaches • (Archived)
+# 🧩 Singleton Pattern Prototype — Java Approaches • (Archived)
 
 <br>
 
